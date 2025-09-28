@@ -23,15 +23,113 @@ By the end of the course, you will:
 
 The curriculum builds step by step from Java fundamentals to backend deployment:
 
-- **Weeks 1–2:** Java basics, arrays, and intro to OOP 🛠️
-- **Weeks 3–4:** Advanced OOP, exceptions, and collections 📚
-- **Week 5:** Java I/O and file handling 📂
-- **Week 6:** Databases + JDBC integration 🔗
-- **Week 7:** Maven, project structure, and dependencies 📦
-- **Weeks 8–9:** Spring Boot fundamentals + database integration ⚛️
-- **Week 10:** Validation, DTOs, and error handling ✅
-- **Week 11:** Authentication, JWT, and Spring Security 🔐
-- **Week 12:** Final full-stack backend project + deployment 🚀
+### [📁 `week-1` – Java & Programming Basics]()
+
+- Java syntax & structure
+- Variables, data types, operators
+- Input/output & basic control flow (if, switch, loops)
+- Writing simple console apps
+
+---
+
+### [📁 `week-2` – Methods, Arrays & Intro to OOP]()
+
+- Functions/methods
+- Arrays & multidimensional arrays
+- Introduction to Object-Oriented Programming
+- Classes and objects
+
+---
+
+### [📁 `week-3` – OOP Deep Dive]()
+
+- Encapsulation, inheritance, polymorphism
+- Constructors, static vs instance
+- Method overloading/overriding
+- Composition and class relationships
+
+---
+
+### [📁 `week-4` – Exception Handling & Collections]()
+
+- Exception types and try-catch-finally
+- Custom exceptions
+- Java Collections: List, Set, Map
+- Iterators and enhanced for loops
+
+---
+
+### [📁 `week-5` – Java I/O & File Handling]()
+
+- FileReader, FileWriter, BufferedReader/Writer
+- Reading/writing files with Java
+- Serialization & deserialization
+
+---
+
+### [📁 `week-6` – Intro to Databases & JDBC]()
+
+- Intro to relational databases & SQL (PostgreSQL or MySQL)
+- JDBC fundamentals
+- Connecting Java to a database
+- CRUD operations with SQL
+
+---
+
+### [📁 `week-7` – Maven & Project Structure]()
+
+- What is Maven & why use it
+- Setting up a Maven project
+- Dependency management
+- Organizing packages & modules
+
+---
+
+### [📁 `week-8` – Spring Boot Basics]()
+
+- Intro to Spring & Spring Boot
+- RESTful APIs with Spring Boot
+- Controllers, Services, Repositories
+- Building simple endpoints
+
+---
+
+### [📁 `week-9` – Spring Boot with Database]()
+
+- Connecting Spring Boot with PostgreSQL
+- Spring Data JPA & Entities
+- CRUD operations using Repositories
+- Application.properties & configurations
+
+---
+
+### [📁 `week-10` – Validation, DTOs & Error Handling]()
+
+- Bean validation using annotations
+- DTOs (Data Transfer Objects)
+- Custom exception handlers with @ControllerAdvice
+- ResponseEntity & HTTP status codes
+
+---
+
+### [📁 `week-11` – Authentication & Security]()
+
+- Password hashing (BCrypt)
+- User registration/login
+- JWT-based authentication
+- Securing endpoints with Spring Security
+
+---
+
+### [📁 `week-12` – Final Project Week]()
+
+- Design & build a complete REST API backend
+- Connect to a real database
+- Implement authentication
+- Code review, testing, and documentation
+- Final project demo
+
+---
 
 ## Course Format
 
