@@ -2,11 +2,15 @@
 
 ## Overview
 
-Welcome to the **Java Backend Development** GitHub repository! 🌟 Over the next 12 weeks, you’ll go from Java fundamentals to building fully functional REST APIs using Spring Boot and databases. This hands-on, project-driven program is perfect for aspiring backend developers who want to master the Java ecosystem.
+Welcome to the **Java Backend Development** GitHub repository! 🌟 Over the next 12 weeks, you’ll go from Java fundamentals
+to building fully functional REST APIs using Spring Boot and databases. This hands-on, project-driven program is perfect for
+aspiring backend developers who want to master the Java ecosystem.
 
 ## Introduction
 
-This course is designed to equip you with the skills needed to develop robust, scalable backend systems. 🧑‍💻 You’ll start with Java basics, explore object-oriented programming, and progress toward building production-ready applications with Spring Boot, databases, and authentication.
+This course is designed to equip you with the skills needed to develop robust, scalable backend systems. 🧑‍💻
+You’ll start with Java basics, explore object-oriented programming, and progress toward building production-ready
+applications with Spring Boot, databases, and authentication.
 
 ## Learning Goals
 
@@ -23,7 +27,7 @@ By the end of the course, you will:
 
 The curriculum builds step by step from Java fundamentals to backend deployment:
 
-### [📁 `week-1` – Java & Programming Basics]()
+### [📁 `week-1` – Java & Programming Basics](https://github.com/BF-BackEnd-class-2025/java-week-1)
 
 - Java syntax & structure
 - Variables, data types, operators
@@ -32,7 +36,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-2` – Methods, Arrays & Intro to OOP]()
+### [📁 `week-2` – Methods, Arrays & Intro to OOP](https://github.com/BF-BackEnd-class-2025/java-week-2)
 
 - Functions/methods
 - Arrays & multidimensional arrays
@@ -41,7 +45,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-3` – OOP Deep Dive]()
+### [📁 `week-3` – OOP Deep Dive](https://github.com/BF-BackEnd-class-2025/java-week-3)
 
 - Encapsulation, inheritance, polymorphism
 - Constructors, static vs instance
@@ -50,7 +54,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-4` – Exception Handling & Collections]()
+### [📁 `week-4` – Exception Handling & Collections](https://github.com/BF-BackEnd-class-2025/java-week-4)
 
 - Exception types and try-catch-finally
 - Custom exceptions
@@ -59,7 +63,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-5` – Java I/O & File Handling]()
+### [📁 `week-5` – Java I/O & File Handling](https://github.com/BF-BackEnd-class-2025/java-week-5)
 
 - FileReader, FileWriter, BufferedReader/Writer
 - Reading/writing files with Java
@@ -67,7 +71,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-6` – Intro to Databases & JDBC]()
+### [📁 `week-6` – Intro to Databases & JDBC](https://github.com/BF-BackEnd-class-2025/java-week-6)
 
 - Intro to relational databases & SQL (PostgreSQL or MySQL)
 - JDBC fundamentals
@@ -76,7 +80,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-7` – Maven & Project Structure]()
+### [📁 `week-7` – Maven & Project Structure](https://github.com/BF-BackEnd-class-2025/java-week-7)
 
 - What is Maven & why use it
 - Setting up a Maven project
@@ -85,7 +89,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-8` – Spring Boot Basics]()
+### [📁 `week-8` – Spring Boot Basics](https://github.com/BF-BackEnd-class-2025/java-week-8)
 
 - Intro to Spring & Spring Boot
 - RESTful APIs with Spring Boot
@@ -94,7 +98,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-9` – Spring Boot with Database]()
+### [📁 `week-9` – Spring Boot with Database](https://github.com/BF-BackEnd-class-2025/java-week-9)
 
 - Connecting Spring Boot with PostgreSQL
 - Spring Data JPA & Entities
@@ -103,7 +107,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-10` – Validation, DTOs & Error Handling]()
+### [📁 `week-10` – Validation, DTOs & Error Handling](https://github.com/BF-BackEnd-class-2025/java-week-10)
 
 - Bean validation using annotations
 - DTOs (Data Transfer Objects)
@@ -112,7 +116,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-11` – Authentication & Security]()
+### [📁 `week-11` – Authentication & Security](https://github.com/BF-BackEnd-class-2025/java-week-11)
 
 - Password hashing (BCrypt)
 - User registration/login
@@ -121,7 +125,7 @@ The curriculum builds step by step from Java fundamentals to backend deployment:
 
 ---
 
-### [📁 `week-12` – Final Project Week]()
+### [📁 `week-12` – Final Project Week](https://github.com/BF-BackEnd-class-2025/java-week-12)
 
 - Design & build a complete REST API backend
 - Connect to a real database
